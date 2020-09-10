@@ -1,7 +1,7 @@
 {
-"latestVersion":"1.0.6",
-"latestVersionCode":5,
-"url":"https://drive.google.com/uc?export=download&id=1X2TovYbF8NR3wooJn-A6GFR3lbgsDAxh",
+"latestVersion":"1.0.7",
+"latestVersionCode":6,
+"url":"https://drive.google.com/uc?export=download&id=1X6u5irQi1xDrtaqU8DTBFETnIylFLuhT",
 "force":0,
-"releaseNotes":["-Bug Fixes \n-Add Font Size for Bottom of Screen \n-Added Second player as ExoPlayer \n-Splash Screen Added \n-TimeZone Option Added \n-Open Channel Epg Screen Problem Fixed"]
+"releaseNotes":["-Bug Fixes \n- Changed Self Update Domain"]
 }
