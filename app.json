@@ -3,5 +3,6 @@
 "latestVersionCode":6,
 "url":"https://drive.google.com/uc?export=download&id=1X6u5irQi1xDrtaqU8DTBFETnIylFLuhT",
 "force":0,
+"time" : "", 
 "releaseNotes":["-Bug Fixes \n- Changed Self Update Domain"]
 }
